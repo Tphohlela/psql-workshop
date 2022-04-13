@@ -1,4 +1,4 @@
-[![Build Status](https://app.travis-ci.com/Tphohlela/psql-workshop.svg?branch=main)](https://app.travis-ci.com/Tphohlela/psql-workshop)
+[![Build Status](https://app.travis-ci.com/Tphohlela/psql-workshop.svg?branch=master)](https://app.travis-ci.com/Tphohlela/psql-workshop)
 
 # psql refresher workshop
 
